@@ -10,6 +10,7 @@
             the objective of this task was to perform data cleaning and exploratory data analysis (EDA) on the Titanic dataset from Kaggle.
             Using Python libraries such as Pandas, NumPy, Seaborn, Matplotlib, and scikit-learn, I analyzed relationships between variables, identified patterns and trends, and applied basic machine learning technique
             like Logistic Regression to gain meaningful insights from the data.
+            
             **This task improved my skills in:**
                Data cleaning and preprocessing
                Exploratory Data Analysis (EDA)
@@ -21,6 +22,7 @@
            the objective of this project was to analyze and visualize sentiment patterns in Twitter social media data to understand public opinions and attitudes toward specific topics or brands.
            Using Python libraries such as Pandas, NumPy, Matplotlib, NLTK, and scikit-learn, I performed data preprocessing, exploratory data analysis, text cleaning, tokenization, stopword removal, lemmatization, and 
            sentiment classification using machine learning techniques like Support Vector Classifier (SVC).
+           
           **This task enhanced my skills in:**
            Natural Language Processing (NLP)
            Sentiment Analysis
@@ -33,6 +35,7 @@
             This project focused on analyzing traffic accident data to identify patterns related to road conditions, weather, and time of day.
             Using Python libraries such as Pandas, Matplotlib, and Seaborn, I performed data analysis and created visualizations to highlight accident hotspots and contributing factors. The project helped uncover 
             meaningful insights from real-world traffic data.
+            
         **Key Learning: this task enhanced my skills in:**
             Data analysis and preprocessing
             Exploratory Data Analysis (EDA)
