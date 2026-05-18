@@ -3,12 +3,12 @@
 A collection of data science and machine learning projects completed during my
 internship at **Prodigy InfoTech**. This repository documents four end-to-end
 tasks covering data cleaning, exploratory data analysis (EDA), visualization,
-natural language processing, and applied machine learning using the Python
-data stack.
+natural language processing, and applied machine learning using the Python.
 
 The internship is organized into four progressive tasks:
 
 **Task 1: Population Demographics Visualization**
+
 This project was completed as part of my internship at Prodigy InfoTech
 The goal of the task was to analyze and visualize the distribution of ages and genders in a population dataset using Python and Jupyter
 Using Pandas for data preprocessing and Matplotlib/Seaborn for visualization, I created:
@@ -18,6 +18,7 @@ Using Pandas for data preprocessing and Matplotlib/Seaborn for visualization, I 
 - **Key Learning:** This task improved my skills in data cleaning, exploratory data analysis (EDA), and creating effective visualizations for presenting insights from data.
 
 **Task 2: Data Cleaning & Exploratory Data Analysis (EDA)**
+
 The objective of this task was to perform data cleaning and exploratory data analysis (EDA) on the Titanic dataset from Kaggle
 Using Python libraries such as Pandas, NumPy, Seaborn, Matplotlib, and scikit-learn, I analyzed relationships between variables, identified patterns and trends, and applied basic machine learning technique like Logistic Regression to gain meaningful insights from the data
 **This task improved my skills in:**
@@ -28,6 +29,7 @@ Using Python libraries such as Pandas, NumPy, Seaborn, Matplotlib, and scikit-le
   - Applying machine learning models for prediction and insight generation
 
 **Task 3: Sentiment Analysis on Social Media Data**
+
 The objective of this project was to analyze and visualize sentiment patterns in Twitter social media data to understand public opinions and attitudes toward specific topics or brands
 Using Python libraries such as Pandas, NumPy, Matplotlib, NLTK, and scikit-learn, I performed data preprocessing, exploratory data analysis, text cleaning, tokenization, stopword removal, lemmatization, and sentiment classification using machine learning techniques like Support Vector Classifier (SVC)
 **This task enhanced my skills in:**
@@ -39,6 +41,7 @@ Using Python libraries such as Pandas, NumPy, Matplotlib, NLTK, and scikit-learn
   - Data visualization and analysis
 
 **Task 4: Traffic Accident Data Analysis**
+
 This project focused on analyzing traffic accident data to identify patterns related to road conditions, weather, and time of day
 Using Python libraries such as Pandas, Matplotlib, and Seaborn, I performed data analysis and created visualizations to highlight accident hotspots and contributing factors
 The project helped uncover meaningful insights from real-world traffic data
