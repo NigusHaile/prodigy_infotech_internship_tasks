@@ -51,6 +51,7 @@ The project helped uncover meaningful insights from real-world traffic data
   - Data visualization
   - Pattern recognition
   - Extracting insights from real-world datasets
+  
 All tasks were completed as part of the **Prodigy InfoTech Data Science
-Internship Program**. This repository organizes the work for easier access,
-review, and future reference.
+Internship Program**. 
+
